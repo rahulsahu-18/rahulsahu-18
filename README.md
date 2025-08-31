@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rahul Kumar Sahu  
+# 👋 Hi, I'm Rahul Sahu  
 
 💻 2nd Year CSE Student | Aspiring Software Engineer  
 🚀 Practicing **DSA** | Learning **Fullstack Development & AI** 
